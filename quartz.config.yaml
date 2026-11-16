@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ja-JP
-  baseUrl: tikuwa404.github.io
+  baseUrl: tikuwa404.github.io/tikuwacppref
   ignorePatterns:
     - private
     - templates
