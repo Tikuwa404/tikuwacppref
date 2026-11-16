@@ -87,6 +87,8 @@ plugins:
     layout:
       position: right
       priority: 30
+    options:
+      maxDepth: 1
   - source: "@quartz-community/description"
     enabled: true
     order: 70
