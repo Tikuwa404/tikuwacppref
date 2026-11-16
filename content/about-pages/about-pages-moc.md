@@ -1,5 +1,5 @@
 ---
-title: tikuwacppref
+title: このサイトについて
 ---
 # このサイトについて
 このサイトについての情報に飛ぶことができます。
@@ -7,6 +7,6 @@ title: tikuwacppref
 # 目次
 
 # ページについて
-[ページのフォーマット](format-of-pages)
+[ページのフォーマット](format-of-pages.md)
 
 # 関連ページ

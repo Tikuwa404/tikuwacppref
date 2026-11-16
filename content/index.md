@@ -2,9 +2,10 @@
 title: tikuwacppref
 ---
 # C++リファレンス
-このサイトはtikuwa404が個人的に欲しかったC++の情報を溜めこむサイトです。
+このサイトはtikuwa404が個人的に欲しかったC++の情報を書き込むサイトです。
 # 各ジャンルへのリンク
-[言語の基本](language-basics-moc)
+[このサイトについて](about-pages-moc)
+[言語の基本](language-basics-moc.md)
 
 # ページのフォーマットについて
 [[format-of-pages]]を参照してください。
