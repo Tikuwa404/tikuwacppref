@@ -7,6 +7,7 @@ title: tikuwacppref
 [このサイトについて](about-pages-moc.md)
 [C++の導入](introduction-moc)
 [言語の基本](language-basics-moc.md)
+[オブジェクト指向](object-oriented-moc)
 
 # ページのフォーマットについて
 [ページのフォーマット](format-of-pages)を参照してください。
