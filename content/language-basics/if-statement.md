@@ -21,8 +21,7 @@ title: if文について
 ```cpp
 #include <iostream>
 
-int main()
-{
+int main() {
     int number = 42;
 
     if (number == 42) {
@@ -61,8 +60,7 @@ Even number
 #include <iostream>
 #include <memory>
 
-int main()
-{
+int main() {
     std::unique_ptr<int> p(new int(42));
 
     if (p && *p == 42)
@@ -84,8 +82,7 @@ Yes
 #include <iostream>
 #include <string>
 
-int main()
-{
+int main() {
     std::string s("Hello, World!");
     if (std::size_t i = s.find('o'); i != std::string::npos) {
         std::cout << s[i + 1] << '\n';
@@ -109,8 +106,7 @@ int main()
 #include <string>
 #include <sstream>
 
-int main()
-{
+int main() {
     if (std::istringstream iss{"Hello, World!"}) {
         std::string s;
         while (iss >> s) std::cout << s << '\n';
