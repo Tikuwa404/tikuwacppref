@@ -10,6 +10,6 @@ C++の導入についての情報に飛ぶことができます。
 # 環境構築について
 [コンパイラのインストール](install-compiler.md)
 [コンパイラを使う](use-compiler)
-
+[VSCodeの導入](install-vscode)
 
 # 関連ページ
