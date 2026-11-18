@@ -10,6 +10,7 @@ title: 言語の基本
 
 # 基本文法
 [`if`文について](if-statement)
+[関数ポインタ](function-pointer)
 
 # プリプロセッサディレクティブ
 [`#define`マクロの使い方](define-macro)
