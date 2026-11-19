@@ -24,4 +24,3 @@ int main() {
 ```
 
 # 関連ページ
-[(ここにリンクを貼る)](format-of-pages.md)
